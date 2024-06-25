@@ -27,6 +27,6 @@ I believe in continuous learning and enjoy exploring new technologies. Whether i
 If you're interested in collaborating on projects or discussing technology, feel free to reach out to me:
 
 - LinkedIn: [Tayyab Shahid](https://www.linkedin.com/in/tayyabshahid)
-- Email: tayyabshahid@example.com
+- Email: tayyabshahidstudentait@gmail.com
 
 Happy coding! 🎉
